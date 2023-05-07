@@ -42,9 +42,10 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Bootstrapping stages', link: 'en/bootstrapping'},
 			{ text: 'Projects overview', link: 'en/projects' },
 			{ text: 'Terminology', link: 'en/terminology'},
-			{ text: 'History', link: 'en/history'},
+			{ text: 'History', link: 'en/history'},		
 		],
 		'Members': [
+			{ text: 'Code of conduct', link: 'en/code-of-conduct'},
 			{ text: 'Founders', link: 'en/founders' },
 			{ text: 'Become a gardener!', link: 'en/join-us'},
 		],

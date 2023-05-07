@@ -3,7 +3,6 @@ title: "History"
 description: "History of Ethereum Event Gardeners"
 ---
 
-
 ## 2023
 ### May 2023
 - *May 7, 2023* - basic documentation on [docs.ethevents.club](https://docs.ethevents.club/)

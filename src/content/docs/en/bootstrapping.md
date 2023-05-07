@@ -17,4 +17,7 @@ The initiative will be widely discussed within Q2/2023 on [EthereumZurich](https
 - Setting up basic communication tools
 
 ## Stage II. - community-bootstrap
+TODO
+
 ## Stage III. - road to decentralization
+TODO
