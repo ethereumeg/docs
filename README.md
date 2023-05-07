@@ -26,6 +26,12 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+### Production deploy
+
+The page is built and deployed automatically by [GitHub Actions](https://github.com/features/actions) to [GitHub Pages](https://pages.github.com/) with each commit to `main`.
+
+Build and deploy settings: [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)
+
 ## Contributors
 
 * [tree](https://ethevents.club/u/tree)
