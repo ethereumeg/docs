@@ -40,6 +40,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Manifesto', link: 'en/manifesto' },
 			{ text: 'Vision and goals', link: 'en/goals'},
 			{ text: 'Bootstrapping stages', link: 'en/bootstrapping'},
+			{ text: 'Projects overview', link: 'en/projects' },
 			{ text: 'Terminology', link: 'en/terminology'},
 			{ text: 'History', link: 'en/history'},
 		],
