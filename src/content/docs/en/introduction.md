@@ -17,3 +17,9 @@ We are a non-profit, donation-backed collective.
 * Forum: [ethevents.club](http://ethevents.club/)
 * GitHub: [github.com/ethereumeg](https://github.com/ethereumeg)
 * Telegram: [t.me/EthereumEG](https://t.me/EthereumEG)
+
+----
+
+This documentation was created with the love ❤️ and help of [Astro](https://astro.build/) 🚀
+
+[Source code](https://github.com/ethereumeg/docs) | [Analytics](https://analytics.gwei.cz/docs.ethevents.club)
