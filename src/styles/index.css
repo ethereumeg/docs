@@ -236,13 +236,14 @@ table {
 }
 
 /* Zebra striping */
-tr:nth-of-type(odd) {
+tbody tr:nth-of-type(odd) {
 	background: var(--theme-bg-hover);
 }
 th {
 	background: var(--color-black);
 	color: var(--theme-color);
 	font-weight: bold;
+	text-transform: uppercase;
 }
 td,
 th {
