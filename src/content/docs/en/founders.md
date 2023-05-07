@@ -5,6 +5,8 @@ title: "Founding gardeners"
 
 The founding gardeners are group of passionate people who joined in the [pre-genesis phase](/en/bootstrapping) and helped shape & bootstrap *Ethereum Event Gardeners* basic visions and directions.
 
+The power of the founding gardeners is only temporary, it will serve as a sort of safety brake until the community is sufficiently decentralized. Its power and influence should progressively decrease until it becomes just an advisory body. Our interest is to form an open and inclusive community, not to form elite groups.
+
 ## Founders list
 Here's a list of the founding gardeners (in alphabetical order):
 
