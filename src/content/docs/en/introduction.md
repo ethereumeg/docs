@@ -1,9 +1,9 @@
 ---
-title: "gm, wanderer!"
+title: "gm, wanderer! 👋"
 description: ""
 ---
 
-**Welcome to Ethereum Event Gardeners!**
+**Welcome to *Ethereum Event Gardeners!* 👨‍🌾**
 
 > Organizing diversity against commercialization in Ethereum community
 

@@ -36,24 +36,25 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'About us': [
-			{ text: 'gm, wanderer!', link: 'en/introduction' },
-			{ text: 'Manifesto', link: 'en/manifesto' },
-			{ text: 'Vision and goals', link: 'en/goals'},
-			{ text: 'Bootstrapping stages', link: 'en/bootstrapping'},
-			{ text: 'Workstreams', link: 'en/workstreams' },
-			{ text: 'Terminology', link: 'en/terminology'},
-			{ text: 'History', link: 'en/history'},		
+			{ text: '👋 gm, wanderer!', link: 'en/introduction' },
+			{ text: '📜 Manifesto', link: 'en/manifesto' },
+			{ text: '🔭 Vision and goals', link: 'en/goals'},
+			{ text: '🚀 Bootstrapping stages', link: 'en/bootstrapping'},
+			{ text: '💼 Workstreams', link: 'en/workstreams' },
+			{ text: '📖 Terminology', link: 'en/terminology'},
+			{ text: '📜 History', link: 'en/history'},		
 		],
 		'Members': [
-			{ text: 'Code of conduct', link: 'en/code-of-conduct'},
-			{ text: 'Founders', link: 'en/founders' },
-			{ text: 'Become a gardener!', link: 'en/join-us'},
+			{ text: '🤝 Code of conduct', link: 'en/code-of-conduct'},
+			{ text: '👥 Founders', link: 'en/founders' },
+			{ text: '🌱 Become a gardener!', link: 'en/join-us'},
 		],
 		'Projects': [
-			{ text: 'chronicle', link: 'en/projects/chronicle' },
-			{ text: 'ethevents.xyz', link: 'en/projects/ethevents-xyz' },
-			{ text: 'confeth', link: 'en/projects/confeth' },
-			{ text: 'ETHEUnite', link: 'en/projects/etheunite' },
+			{ text: '📚 chronicle', link: 'en/projects/chronicle' },
+			{ text: '📅 ethevents.xyz', link: 'en/projects/ethevents-xyz' },
+			{ text: '👥 confeth', link: 'en/projects/confeth' },
+			{ text: '🤝 ETHEUnite', link: 'en/projects/etheunite' },
 		],
 	},
 };
+
