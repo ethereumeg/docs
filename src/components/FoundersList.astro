@@ -1,0 +1,36 @@
+---
+import { isHTMLBytes } from "astro/dist/runtime/server/escape";
+const response = await fetch('https://core.ethevents.club');
+const data = await response.json();
+const founders = data.founders.sort((x, y) => x.name > y.name ? 1 : -1);
+const links = {
+    twitter: "https://twitter.com/$@",
+    github: "https://github.com/$@",
+}
+function getLink (item) {
+    for (const key of Object.keys(links)) {
+        if (item.refs[key]) {
+            return links[key].replace('$@', item.refs[key])
+        }
+    }
+    return false
+}
+
+---
+<!-- Data fetched at build can be rendered in HTML -->
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Events/Community</th>
+        </tr>
+    </thead>
+    <tbody>
+        {founders.map((item) => (
+            <tr>
+                <td><a href={getLink(item)}>{item.name}</a></td>
+                <td>{item.caption}</td>
+            </tr>
+        ))}
+    </tbody>
+</table>
