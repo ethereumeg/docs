@@ -1,4 +1,4 @@
-# EthereumEG Docs
+# EthereumEG Docs 👨‍🌾📗
 
 This documention is build using [Astro](https://astro.build/) and [Docs Theme](https://astro.build/themes/details/docs/).
 
@@ -28,7 +28,7 @@ All commands are run from the root of the project, from a terminal:
 
 ### Production deploy
 
-The page is built and deployed automatically by [GitHub Actions](https://github.com/features/actions) to [GitHub Pages](https://pages.github.com/) with each commit to `main`.
+The page is built and deployed as [docs.ethevents.club](https://docs.ethevents.club) automatically by [GitHub Actions](https://github.com/features/actions) to [GitHub Pages](https://pages.github.com/) with each commit to `main`.
 
 Build and deploy settings: [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)
 
