@@ -6,11 +6,11 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/.github/assets/banner.png?raw=true',
+		src: 'https://pbs.twimg.com/profile_banners/1644000260828844035/1682999255/1500x500',
 		alt:
 			'Documentation for Ethereum Event Gardeners (EthereumEG)',
 	},
-	twitter: 'astrodotbuild',
+	twitter: 'ethereumeg',
 };
 
 export const KNOWN_LANGUAGES = {
@@ -40,7 +40,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Manifesto', link: 'en/manifesto' },
 			{ text: 'Vision and goals', link: 'en/goals'},
 			{ text: 'Bootstrapping stages', link: 'en/bootstrapping'},
-			{ text: 'Projects overview', link: 'en/projects' },
+			{ text: 'Workstreams', link: 'en/workstreams' },
 			{ text: 'Terminology', link: 'en/terminology'},
 			{ text: 'History', link: 'en/history'},		
 		],
@@ -51,7 +51,7 @@ export const SIDEBAR: Sidebar = {
 		],
 		'Projects': [
 			{ text: 'chronicle', link: 'en/projects/chronicle' },
-			{ text: 'ethevents.xyz', link: 'en/projects/etheventsxyz' },
+			{ text: 'ethevents.xyz', link: 'en/projects/ethevents-xyz' },
 			{ text: 'confeth', link: 'en/projects/confeth' },
 			{ text: 'ETHEUnite', link: 'en/projects/etheunite' },
 		],

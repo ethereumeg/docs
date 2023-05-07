@@ -1,11 +1,11 @@
 ---
-title: Projects overview
-description: Ethereum Event Gardeners projects
+title: Workstreams
+description: Ethereum Event Gardeners workstreams
 ---
 
 TODO
 
-## List of projects
+## Projects
 
 - [chronicle](https://chronicle.ethevents.club) ⎯ historical archive of community ETH events (in development)
 - [confeth](https://github.com/ethereumeg/confeth) ⎯ state-of-the-art conference/hackathon planning and managing tool (draft)
