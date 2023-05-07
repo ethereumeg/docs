@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'Gardener\'s Docs',
+	title: 'EthereumEG Docs',
 	description: 'Documentation for Ethereum Event Gardeners (EthereumEG)',
 	defaultLanguage: 'en-us',
 } as const;
@@ -38,7 +38,7 @@ export const SIDEBAR: Sidebar = {
 		'About us': [
 			{ text: 'gm, wanderer!', link: 'en/introduction' },
 			{ text: 'Manifesto', link: 'en/manifesto' },
-			{ text: 'Goals', link: 'en/goals'},
+			{ text: 'Vision and goals', link: 'en/goals'},
 			{ text: 'Bootstrapping stages', link: 'en/bootstrapping'},
 			{ text: 'Terminology', link: 'en/terminology'},
 			{ text: 'History', link: 'en/history'},
