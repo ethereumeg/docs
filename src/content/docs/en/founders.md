@@ -3,7 +3,7 @@ title: "Founding gardeners"
 #description: "Docs intro"
 ---
 
-The founding gardeners are group of passionate people who joined in the pre-genesis phase and helped shape & bootstrap *Ethereum Event Gardeners* basic visions and directions.
+The founding gardeners are group of passionate people who joined in the [pre-genesis phase](/en/bootstrapping) and helped shape & bootstrap *Ethereum Event Gardeners* basic visions and directions.
 
 ## Founders list
 Here's a list of the founding gardeners (in alphabetical order):

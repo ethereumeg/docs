@@ -44,13 +44,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'History', link: 'en/history'},
 		],
 		'Members': [
-			{ text: 'Founders', link: 'en/founding-gardeners' },
+			{ text: 'Founders', link: 'en/founders' },
 			{ text: 'Become a gardener!', link: 'en/join-us'},
 		],
 		'Projects': [
 			{ text: 'chronicle', link: 'en/projects/chronicle' },
 			{ text: 'ethevents.xyz', link: 'en/projects/etheventsxyz' },
 			{ text: 'confeth', link: 'en/projects/confeth' },
+			{ text: 'ETHEUnite', link: 'en/projects/etheunite' },
 		],
 	},
 };

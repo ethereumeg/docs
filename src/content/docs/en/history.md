@@ -6,6 +6,7 @@ description: "History of Ethereum Event Gardeners"
 
 ## 2023
 ### May 2023
+- *May 7, 2023* - basic documentation on [docs.ethevents.club](https://docs.ethevents.club/)
 - *May 6, 2023* - announced in the "ETH Events Coordination" Telegram group
 
 ### April 2023
