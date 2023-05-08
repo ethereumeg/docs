@@ -51,7 +51,7 @@ export const SIDEBAR: Sidebar = {
 			{ text: '🤝 Code of conduct', link: 'en/code-of-conduct'},
 		],
 		'Projects': [
-			{ text: '📚 chronicle', link: 'en/projects/chronicle' },
+			{ text: '📚 chronicle (db)', link: 'en/projects/chronicle' },
 			{ text: '📅 ethevents.xyz', link: 'en/projects/ethevents-xyz' },
 			{ text: '👥 confeth', link: 'en/projects/confeth' },
 			{ text: '🤝 ETHEUnite', link: 'en/projects/etheunite' },
