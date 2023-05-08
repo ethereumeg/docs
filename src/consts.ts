@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'EthereumEG Docs',
+	title: 'Ethereum EG Docs',
 	description: 'Documentation for Ethereum Event Gardeners (EthereumEG)',
 	defaultLanguage: 'en-us',
 } as const;
