@@ -41,13 +41,14 @@ export const SIDEBAR: Sidebar = {
 			{ text: '🔭 Vision and goals', link: 'en/goals'},
 			{ text: '🚀 Bootstrapping stages', link: 'en/bootstrapping'},
 			{ text: '💼 Workstreams', link: 'en/workstreams' },
+			{ text: '🛠️ Coordination tools', link: 'en/tools' },
 			{ text: '📖 Terminology', link: 'en/terminology'},
 			{ text: '📜 History', link: 'en/history'},		
 		],
 		'Members': [
-			{ text: '🤝 Code of conduct', link: 'en/code-of-conduct'},
-			{ text: '👥 Founders', link: 'en/founders' },
+			{ text: '👥 Founding gardeners', link: 'en/founders' },
 			{ text: '🌱 Become a gardener!', link: 'en/join-us'},
+			{ text: '🤝 Code of conduct', link: 'en/code-of-conduct'},
 		],
 		'Projects': [
 			{ text: '📚 chronicle', link: 'en/projects/chronicle' },
