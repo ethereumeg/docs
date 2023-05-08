@@ -24,9 +24,9 @@ export const COMMUNITY_INVITE_URL = `https://ethevents.club`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-	indexName: 'XXXXXXXXXX',
-	appId: 'XXXXXXXXXX',
-	apiKey: 'XXXXXXXXXX',
+	indexName: 'ethevents',
+	appId: 'S6N0Y2ZG7L',
+	apiKey: '2818501726b44bbc9d9af4ecd394c3fe',
 };
 
 export type Sidebar = Record<
