@@ -4,10 +4,12 @@ title: "Boostrapping stages"
 
 The emergence of the community is divided into three stages (I.-III.):
 
+Current stage: **pre-genesis (I.)**
+
+The initiative was widely discussed within 2023 on [EthereumZurich](https://ethereumzuri.ch/), [ETHDam](https://www.ethdam.com/) and  [ETHPrague](https://ethprague.com/). Genesis is expected during the [ETHBohem1a](https://ethbohemia.ethevents.club/) hackathon during February/March 2024.
+
 ## Stage I. - pre-genesis
 At this stage nothing is certain, it is a stage of ideation and thinking.
-
-The initiative will be widely discussed within Q2/2023 on [EthereumZurich](https://ethereumzuri.ch/) and [ETHDam](https://www.ethdam.com/), and hopefully published on [ETHPrague](https://ethprague.com/), early June 2023 (genesis).
 
 ### At this stage, we are mainly addressing the following areas
 

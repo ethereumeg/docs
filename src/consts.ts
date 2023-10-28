@@ -51,8 +51,10 @@ export const SIDEBAR: Sidebar = {
 			{ text: '🤝 Code of conduct', link: 'en/code-of-conduct'},
 		],
 		'Projects': [
-			{ text: '📖 chronicle (db)', link: 'en/projects/chronicle' },
-			{ text: '🌐 ethevents.xyz', link: 'en/projects/ethevents-xyz' },
+			{ text: '💎 Ethereum Community Directory (EthCD)', link: 'en/projects/ethcd' },
+			{ text: '📖 Ethereum Events Database (chronicle)', link: 'en/projects/chronicle' },
+			{ text: '🌐 ETHEvents.xyz', link: 'en/projects/ethevents-xyz' },
+			{ text: '🗣️ ETHTalks', link: 'en/projects/ethtalks' },
 			{ text: '🗓️ confeth', link: 'en/projects/confeth' },
 			{ text: '🇪🇺 ETHEUnite', link: 'en/projects/etheunite' },
 		],

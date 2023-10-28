@@ -11,6 +11,7 @@ We are a non-profit, donation-backed collective.
 
 ## Follow us!
 * Twitter: [@EthereumEG](https://twitter.com/EthereumEG)
+* Farcaster: [@eeg](https://warpcast.com/eeg)
 * Lu.ma (events): [lu.ma/ethereumeg](https://lu.ma/ethereumeg)
 
 ## Join our community!

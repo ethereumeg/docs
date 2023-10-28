@@ -1,5 +1,5 @@
 ---
-title: chronicle
+title: Ethereum Events Database (chronicle)
 ---
 
 **A Historical Database of ETH Events**
