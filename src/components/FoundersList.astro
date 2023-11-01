@@ -2,7 +2,7 @@
 import { isHTMLBytes } from "astro/dist/runtime/server/escape";
 const response = await fetch('https://core.ethevents.club');
 const data = await response.json();
-const founders = data.founders.sort((x, y) => x.name > y.name ? 1 : -1);
+const founders = data.founders.sort((x, y) => x.name.toLowerCase() > y.name.toLowerCase() ? 1 : -1);
 const links = {
     twitter: "https://twitter.com/$@",
     github: "https://github.com/$@",
